@@ -1,46 +1,84 @@
+<h1 align="center">🔷 SILICON SIRPIGAL — LICET VLSI TEAM 🔷</h1>
+<h3 align="center">Exploring RTL → Verification → Synthesis → FPGA → Physical Design → Tapeout</h3>
+
+<p align="center">
+  <img src="../assets/banner.jpg" alt="VLSI Banner" width="800">
+</p>
+
 ---
 
-## 📂 What’s Inside This Organization  
-Our GitHub organization hosts a complete collection of our **VLSI design, FPGA, RISC-V, and digital system projects**.  
-Each repository represents a practical, hands-on implementation of concepts we study as part of our semiconductor learning journey.
+## 🧠 Who We Are  
+We are an **8-member VLSI engineering team from LICET (ECE 2023–27)** dedicated to exploring the **full semiconductor design flow** and building real engineering expertise beyond academics.
+
+This organization is our **collaborative engineering lab**, where we document every step of our growth in chip design.
+
+---
+
+## 🚀 What We Do  
+Our journey covers the complete digital design pipeline:
+
+- 🧩 **RTL Design** using Verilog  
+- 🧪 **Verification** with testbenches & ModelSim  
+- ⏱️ **Timing Analysis & Synthesis**  
+- 🔌 **FPGA Prototyping** using Intel Quartus  
+- 🧱 **Physical Design** using OpenLane & Cadence  
+- 🖥️ **RISC-V Architecture** exploration  
+- 📐 **Digital Circuit Design** & CMOS fundamentals  
+- 📝 **Tapeout-oriented workflows & documentation**
+
+We combine **open-source** and **industry-standard tools** to gain the skills expected from real semiconductor engineers.
+
+---
+
+## 📂 Projects Included in This Organization  
+Our GitHub contains a collection of hands-on VLSI, FPGA, and RISC-V repositories.  
+Here’s a clean overview of what we’ve built:
 
 ### 🔧 **Digital Logic & RTL Design**
-- **1 BIT FULL ADDER** – Verilog implementation of a 1-bit full adder with Quartus and ModelSim simulation.  
-- **4-BIT PARALLEL ADDER** – RTL design of a 4-bit cascaded full-adder system for fast binary addition.  
-- **4-BIT UNIVERSAL SHIFT REGISTER** – Universal shift register built using multiplexers and D-FFs with full testbench.  
-- **FLIP-FLOPS** – Collection of basic flip-flop implementations and simulations.
+- **1 BIT FULL ADDER** – Verilog implementation and Quartus/ModelSim simulation.  
+- **4-BIT PARALLEL ADDER** – A cascaded 4-bit full adder design with FPGA support.  
+- **4-BIT UNIVERSAL SHIFT REGISTER** – Universal shift register using multiplexers & D-FFs.  
+- **FLIP-FLOPS** – Basic flip-flop implementations and simulations.
 
-### ⚙️ **Multipliers & ALU Components**
-- **WALLACE MULTIPLIER** – A high-performance 4-bit Wallace Tree multiplier with efficient hardware reduction logic.  
-- **ADDER USING IP CORE** – Demonstrates the use of Quartus IP Catalog to generate optimized arithmetic blocks.
+### ⚙️ **Multipliers & Arithmetic Units**
+- **WALLACE MULTIPLIER** – High-performance 4-bit Wallace Tree multiplier with RTL and FPGA-ready flow.  
+- **ADDER USING IP CORE** – Utilization of Quartus IP Catalog for optimized adder generation.
 
-### 🧠 **FSM & Memory Modules**
-- **MOORE-FSM** – A Moore Finite State Machine implemented and simulated in Verilog.  
-- **Single-Port-RAM-64×8** – 64×8 single-port RAM with synchronous write and asynchronous read; complete testbench included.
+### 🧠 **FSM & Memory Architectures**
+- **MOORE-FSM** – Moore state machine implementation and testbench.  
+- **Single-Port-RAM-64×8** – 64×8 RAM with synchronous write & asynchronous read support.
 
-### 🖥️ **RISC-V Architecture Projects**
-- **RISC-V Processor** – Modular RTL design of a RISC-V CPU, including instruction execution flow, testbenches, and logs.  
-- **VLSI Value Added Course** – Foundational RTL & digital design exercises built as part of structured learning.
+### 🖥️ **RISC-V & CPU Design**
+- **RISC-V Processor** – Modular RTL implementation of a RISC-V CPU with testbenches and logs.  
+- **VLSI Value Added Course** – Foundational digital logic and Verilog-based experiments.
 
-### 🎓 **Additional Learning Repositories**
-- Documentation repositories for academic learning, experiments, and VLSI lab development.  
-- Projects showing step-by-step RTL → Simulation → FPGA workflows in a professional engineering style.
+Each repository reflects **industry-style engineering**, including RTL design, testing, debugging, documentation, and FPGA-ready implementation.
 
 ---
 
-## 🏗️ Our Repository Structure  
-Every project in this organization typically includes:
+## 🛠️ Our Purpose  
+We aim to **bridge the gap** between academic theory and actual semiconductor workflows by:
 
-- 📁 **RTL Source Code** (Verilog HDL)  
-- 🧪 **Testbenches** & test vectors  
-- 🎞️ **ModelSim Simulation Outputs**  
-- 📝 **Project Documentation**  
-- 🧵 **FPGA Constraints / Pin Mapping**  
-- ⚡ **Quartus Prime Implementation Files**  
-- 📊 **Timing & Resource Reports**  
-- 📦 **GDS / PD Flow Outputs** (for PD projects)
+- Practicing industry-style design flows  
+- Working collaboratively as a structured VLSI team  
+- Building strong portfolios for future semiconductor careers  
+- Contributing to India's fast-growing chip ecosystem  
 
-This ensures our work reflects real-world semiconductor workflows.
+This organization represents our **discipline, teamwork, and commitment** to mastering chip design.
 
 ---
+
+## 🌟 Our Vision  
+To grow together as a team and build the skills required to become the **next generation of VLSI engineers**, contributing to India’s semiconductor mission.
+
+Together, we **learn**, **innovate**, and **push boundaries**.
+
+---
+
+<p align="center"><b>📫 Contact us:</b> slicevlsi25licet@gmail.com</p>
+
+<p align="center">
+  <em>“Designing the Future, One Gate at a Time.”</em>
+</p>
+
 
