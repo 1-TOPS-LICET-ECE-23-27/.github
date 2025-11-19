@@ -1,4 +1,4 @@
-<h1 align="center">🔷 SILICON SIRPIGAL — LICET VLSI TEAM 🔷</h1>
+<h1 align="center">🌟 SILICON SIRPIGAL — LICET VLSI TEAM 🌟</h1>
 <h3 align="center">Exploring RTL → Verification → Synthesis → FPGA → Physical Design → Tapeout</h3>
 
 <p align="center">
@@ -52,7 +52,7 @@ This organization represents our **discipline, teamwork, and commitment** to mas
 
 ---
 
-## 🌟 Our Vision  
+## Our Vision  
 To grow together as a team and build the skills required to become the **next generation of VLSI engineers**, contributing to India’s semiconductor mission.
 
 Together, we **learn**, **innovate**, and **push boundaries**.
