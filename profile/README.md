@@ -2,7 +2,7 @@
 <h3 align="center">Exploring RTL → Verification → Synthesis → FPGA → Physical Design → Tapeout</h3>
 
 <p align="center">
-  <img src="profile/RISC V 1.jpeg" alt="VLSI Banner" width="800">
+  <img src="RISC V 1.jpeg" alt="VLSI Banner" width="800">
 </p>
 
 ---
@@ -64,5 +64,6 @@ Together, we **learn**, **innovate**, and **push boundaries**.
 <p align="center">
   <em>“Designing the Future, One Gate at a Time.”</em>
 </p>
+
 
 
