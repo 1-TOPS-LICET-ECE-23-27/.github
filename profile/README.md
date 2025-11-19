@@ -14,22 +14,6 @@ This organization is our **collaborative engineering lab**, where we document ev
 
 ---
 
-## 🚀 What We Do  
-Our journey covers the complete digital design pipeline:
-
-- 🧩 **RTL Design** using Verilog  
-- 🧪 **Verification** with testbenches & ModelSim  
-- ⏱️ **Timing Analysis & Synthesis**  
-- 🔌 **FPGA Prototyping** using Intel Quartus  
-- 🧱 **Physical Design** using OpenLane & Cadence  
-- 🖥️ **RISC-V Architecture** exploration  
-- 📐 **Digital Circuit Design** & CMOS fundamentals  
-- 📝 **Tapeout-oriented workflows & documentation**
-
-We combine **open-source** and **industry-standard tools** to gain the skills expected from real semiconductor engineers.
-
----
-
 ## 📂 Projects Included in This Organization  
 Our GitHub contains a collection of hands-on VLSI, FPGA, and RISC-V repositories.  
 Here’s a clean overview of what we’ve built:
