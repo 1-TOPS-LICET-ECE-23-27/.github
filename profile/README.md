@@ -2,7 +2,7 @@
 <h3 align="center">Exploring RTL → Verification → Synthesis → FPGA → Physical Design → Tapeout</h3>
 
 <p align="center">
-  <img src="../assets/banner.jpg" alt="VLSI Banner" width="800">
+  <img src="profile/RISC V 1.jpeg" alt="VLSI Banner" width="800">
 </p>
 
 ---
